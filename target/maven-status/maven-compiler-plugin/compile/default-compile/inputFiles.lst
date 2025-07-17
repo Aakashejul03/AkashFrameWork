@@ -1,0 +1,13 @@
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\pageObjects\AccountRegistractionPage.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\pageObjects\BasePage.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\pageObjects\HomePage.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\pageObjects\LoginPage.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\pageObjects\MyAccount.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\testBase\BaseClass.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\testCases\tc001_AccountRegistrationTest.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\testCases\tc002_LoginTest.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\testCases\tc003_LoginDDT.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\testCases\tc004_LodinABC.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\utilities\DataProviders.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\utilities\ExcelUtility.java
+C:\Users\ADMIN\eclipse-workspace\AkashFrameWork\src\main\java\utilities\ExtentReportManager.java
